@@ -2,6 +2,14 @@
 
 A live dashboard for simulated temperature and humidity readings.
 
+## Try it in your browser
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/TSalim22/realtime-sensor-dashboard?quickstart=1)
+
+Sign in to GitHub, open a Codespace and wait for setup. Run `python app.py` in its terminal, then open port 5000 from the **Ports** tab.
+
+Codespaces uses your GitHub account’s allowance. Stop it when finished.
+
 ## Run it
 
 Python 3.12 or later. Run these commands from the project folder:
